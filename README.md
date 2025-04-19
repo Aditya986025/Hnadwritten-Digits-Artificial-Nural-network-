@@ -13,13 +13,13 @@ The Handwritten Digit Recognition project uses an Artificial Neural Network trai
 
 
 
-The image shows the summary of a neural network model (specifically `sequential_3`) generated using Keras or TensorFlow. Here's a detailed breakdown:
+The image shows the summary of a neural network model (specifically `sequential_3`) generated using Keras or TensorFlow.
 
 🔍 Model Summary Explanation:
 
-- **Model Type**: Sequential — Layers are stacked in order from input to output.
-- **Total Parameters**: 1,033,100 — All are trainable, with no non-trainable params.
-- **Number of Layers**: 8 dense (fully connected) layers.
+- *Model Type : Sequential — Layers are stacked in order from input to output.
+- *Total Parameters : 1,033,100 — All are trainable, with no non-trainable params.
+- *Number of Layers : 8 dense (fully connected) layers.
 
 ---
 
