@@ -40,8 +40,8 @@ The image shows the summary of a neural network model (specifically `sequential_
 
 🧠 Model Characteristics:
 
-- *Input : Presumably an image flattened to 784 units (28×28 pixels).
-- *Output: 10 units for digit classification using Softmax (not shown, but typical).
-- *Activation Functions: Likely ReLU for hidden layers and Softmax for the output.
-- *Architecture: Deep feedforward neural network with multiple fully connected layers..
+- * Input : Presumably an image flattened to 784 units (28×28 pixels).
+- * Output: 10 units for digit classification using Softmax (not shown, but typical).
+- * Activation Functions: Likely ReLU for hidden layers and Softmax for the output.
+- * Architecture: Deep feedforward neural network with multiple fully connected layers..
 
