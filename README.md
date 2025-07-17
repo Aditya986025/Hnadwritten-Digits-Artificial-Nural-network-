@@ -1,5 +1,5 @@
 # Hnadwritten-Digits-Artificial-Nural-network-
-The Handwritten Digit Recognition project uses an Artificial Neural Network trained on the MNIST dataset to classify digits from 0 to 9. It processes 28x28 pixel images through input, hidden, and output layers using activation functions and backpropagation to achieve high accuracy in digit prediction..
+The Handwritten Digit Recognition project uses an Artificial Neural Network trained on the MNIST dataset to classify digits from 0 to 9. It processes 28x28 pixel images through input, hidden, and output layers using activation functions and backpropagation to achieve high accuracy in digit prediction.
 
 
 
@@ -15,7 +15,7 @@ The Handwritten Digit Recognition project uses an Artificial Neural Network trai
 
 The image shows the summary of a neural network model (specifically `sequential_3`) generated using Keras or TensorFlow.
 
-🔍 Model Summary Explanation in Short:
+🔍 Model Summary Explanation in Short layers and concept:
 
 - *Model Type : Sequential — Layers are stacked in order from input to output.
 - *Total Parameters : 1,033,100 — All are trainable, with no non-trainable params.
