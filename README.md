@@ -19,7 +19,7 @@ The image shows the summary of a neural network model (specifically `sequential_
 
 - *Model Type : Sequential — Layers are stacked in order from input to output.
 - *Total Parameters : 1,033,100 — All are trainable, with no non-trainable params.
-- *Number of Layers : 8 dense (fully connected) layers.
+- *Number of Layers : 8 dense (fully automated connected) layers.
 
 ---
 
