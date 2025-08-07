@@ -46,3 +46,7 @@ The image shows the summary of a neural network model (specifically `sequential_
 - * Activation Functions: Likely ReLU for hidden layers and Softmax for the output.
 - * Architecture: Deep feedforward neural network with multiple fully connected layers..
 
+
+In conclusion, the Handwritten Digits Recognition using Artificial Neural Networks (ANN) demonstrates how deep learning can accurately classify handwritten digits (0–9) by learning complex patterns from image data. By training on datasets like MNIST, the ANN effectively captures visual features such as curves and strokes through multiple layers of neurons. This project not only highlights the power of neural networks in image classification tasks but also lays the foundation for real-world applications like postal code recognition, cheque processing, and digit-based automation systems. The success of the model reinforces the importance of ANNs in the field of computer vision and intelligent pattern recognition.
+
+
