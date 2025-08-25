@@ -16,7 +16,7 @@ One Part called "Text", with this you can write text in different font and conve
 
 The image shows the summary of a neural network model (specifically `sequential_3`) generated using Keras or TensorFlow.
 
-🔍 Model Summary Explanation in Short layers and concept :
+🔍 Model Summary Explanation in Short layers and concepts:
 
 - *Model Type : Sequential — Layers are stacked in order from input to output.
 - *Total Parameters : 1,033,100 — All are trainable, with no non-trainable params.
